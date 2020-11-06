@@ -9,7 +9,6 @@ import tech.units.indriya.format.SimpleUnitFormat;
 import java.util.Collections;
 import java.util.List;
 import java.util.Locale;
-
 import javax.measure.MetricPrefix;
 import javax.measure.Unit;
 import javax.measure.quantity.*;
